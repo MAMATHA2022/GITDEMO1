@@ -1,0 +1,16 @@
+my firstline:>>first.txt
+/
+:wq
+:wq
+:w:q
+:q
+echo my firstline:
+my firstline:>>first.txt
+/
+:wq
+:wq
+:w:q
+:q
+echo my firstline:>>first.txt
+echo my firstline:
+my first line
