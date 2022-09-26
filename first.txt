@@ -14,3 +14,4 @@ my firstline:>>first.txt
 echo my firstline:>>first.txt
 echo my firstline:
 my first line
+my second line
